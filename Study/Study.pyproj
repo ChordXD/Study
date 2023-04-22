@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>cc0046b0-06ab-4abb-ad0d-eeb011225247</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>3-33.py</StartupFile>
+    <StartupFile>Study.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
